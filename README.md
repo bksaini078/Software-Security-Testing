@@ -1,7 +1,8 @@
 # Software-Security-Testing
 
 Software security testing is the key aspect to ensure reliability, confidence, and trust on software application. Secure software enhances the quality of the application and reduces the risk of intentional/unintentional cyber attacks or failures that can severely affect the reputation of a software company and can leads to negative consequences. This paper discuss about the importance of the security testing, challenges in implementing, and different testing approaches in software development life cycle. With the advancement of technology day by day, the frequency of cyber attacks are increasing and the nature of cyber at- tacks are becoming more complex. Many research has been done recently towards creating effective approaches in order to increase the security testing scope and effectiveness. In this paper, analyzed the widely used testing techniques and also respective manual/automation tools. Finally, brief discussion about the important prerequisite for designing effective security test cases and increasing testing scope in secure software testing i.e. mindset.
-References
+# References
+
 [1] Brad Arkin, Scott Stender, and Gary McGraw. “Software penetration test- ing”. In: IEEE Security & Privacy 3.1 (2005), pp. 84–87.
 [2] Dejan Baca et al. “A novel security-enhanced agile software development process applied in an industrial setting”. In: 2015 10th International Con- ference on Availability, Reliability and Security. IEEE. 2015, pp. 11–19.
 [3] Ruediger Bachmann and Achim D Brucker. “Developing secure software: A holistic approach to security testing”. In: Datenschutz und Datensicherheit (DuD) 38 (2014), pp. 257–261.
