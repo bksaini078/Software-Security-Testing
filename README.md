@@ -13,8 +13,9 @@ widely used testing techniques and also respective tools. Finally, a brief
 explanation about the important prerequisite for designing effective security test sequences and increasing testing scope in secure software testing:
 mindset.
 
-Keywords: Software Security · Security Testing · IT security · Secure
-software Development · Security testing tools · Security testing techniques
+**Keywords:** Software Security · Security Testing · IT security · Secure
+software Development · Security testing tools · Security testing techniques · Risk based security testing · Penetration testing · Model based
+security testing · fuzz security testing · Code based security testing
 
 # References
 
