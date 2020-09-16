@@ -1,6 +1,21 @@
 # Software-Security-Testing
 
-Software security testing is the key aspect to ensure reliability, confidence, and trust on software application. Secure software enhances the quality of the application and reduces the risk of intentional/unintentional cyber attacks or failures that can severely affect the reputation of a software company and can leads to negative consequences. This paper discuss about the importance of the security testing, challenges in implementing, and different testing approaches in software development life cycle. With the advancement of technology day by day, the frequency of cyber attacks are increasing and the nature of cyber at- tacks are becoming more complex. Many research has been done recently towards creating effective approaches in order to increase the security testing scope and effectiveness. In this paper, analyzed the widely used testing techniques and also respective manual/automation tools. Finally, brief discussion about the important prerequisite for designing effective security test cases and increasing testing scope in secure software testing i.e. mindset.
+A lot of research has been done recently towards creating
+effective approaches to increase the security testing scope and effectiveness. Software security testing is a key aspect to ensure reliability, confidence, and trust in software applications. Secure software can contribute
+to the software quality and plays a vital role in reducing the risk of intentional/unintentional cyber attacks or failures that can severely affect the
+reputation of a software company and can lead to negative consequences.
+This paper discusses the importance of security testing, challenges in
+implementing testing techniques, and unique testing approaches in the
+software development life cycle. With the day by day advancement of
+technology, the frequency of cyber attacks are increasing and the nature
+of cyber attacks are becoming more complex. This paper presents the
+widely used testing techniques and also respective tools. Finally, a brief
+explanation about the important prerequisite for designing effective security test sequences and increasing testing scope in secure software testing:
+mindset.
+
+Keywords: Software Security · Security Testing · IT security · Secure
+software Development · Security testing tools · Security testing techniques
+
 # References
 
 [1] Brad Arkin, Scott Stender, and Gary McGraw. “Software penetration test- ing”. In: IEEE Security & Privacy 3.1 (2005), pp. 84–87.\
